@@ -1,0 +1,12 @@
+# DEPENDENCY DIRECTORIES
+node_modules/
+
+# OPTIONAL NPM CACHE DIRECTORY
+.npm
+
+# ENVIRONMENTAL VARIABLES
+.env
+.env.test
+
+# TYPESCRIPT CACHE
+*.tsbuildinfo
